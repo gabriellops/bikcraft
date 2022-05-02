@@ -9,20 +9,14 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
 ---
 
 <div align="center">
-  <img src="./img/readme/home.gif" alt="preview-desktok" height="425">
-  <img src="./img/readme/mobile-preview.gif" alt="preview-desktok" height="425">
+  <img src="./img/readme/preview-home.gif" alt="preview-desktok" height="425">
+  <img src="./img/readme/preview-mobile.gif" alt="preview-mobile" height="425">
 </div>
 
 <div>
-  <h1>
-  <img src="./img/readme/bicicletas.png">
-</h1>
-  <h1>
-  <img src="./img/readme/seguro.png">
-</h1>
-  <h1>
-  <img src="./img/readme/contato.png">
-</h1>
+  <h1><img src="./img/readme/bicicletas.png"></h1>
+  <h1><img src="./img/readme/seguro.png"></h1>
+  <h1><img src="./img/readme/contato.png"></h1>
   <h2 align="center"><a href="https://loja-bikcraft.netlify.app/">See the full site</a></h2>
 </div>
 
@@ -45,3 +39,7 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
     <td><strong>JavaScript</strong> and plugin of simple anime<td>
   </tr>  
 </table>
+
+Made with ❤️ by Gabriel Lopes
+
+[See my Linkedin](https://www.linkedin.com/in/gabriellopes-silva/)
