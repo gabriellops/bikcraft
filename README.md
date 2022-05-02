@@ -24,19 +24,19 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
 
 <table>
   <tr>
-    <td>Semantic <strong>HTML5</strong> markup<td>
+    <td>Semantic <strong>HTML5</strong> markup</td>
   </tr>  
   <tr>
-    <td><strong>CSS</strong><td>
+    <td><strong>CSS</strong></td>
   </tr>  
   <tr>
-    <td>Flexbox<td>
+    <td>Flexbox</td>
   </tr>  
   <tr>
-    <td><strong>CSS</strong> Grid<td>
+    <td><strong>CSS</strong> Grid</td>
   </tr>  
   <tr>
-    <td><strong>JavaScript</strong> and plugin of simple anime<td>
+    <td><strong>JavaScript</strong> and plugin of simple anime</td>
   </tr>  
 </table>
 
