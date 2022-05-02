@@ -6,27 +6,25 @@
 
 The Bikcraft project was developed in the last module of Origamid's HTML and CSS for Beginners course, with a little JavaScript for some basic functionality. This is a professional and totally responsive website for the fictional brand Bikcraft, whose main product is electric bikes specifically tailored for each person.
 
-<h1 align="center">
-  <img src="./img/readme/home.gif">
-</h1>
+---
 
-<h1 align="center">
-  <img width="50%" src="./img/readme/mobile1.gif">
-</h1>
+<div align="center">
+  <img src="./img/readme/home.gif" alt="preview-desktok" height="425">
+  <img src="./img/readme/mobile-preview.gif" alt="preview-desktok" height="425">
+</div>
 
-<h1 align="center">
+<div>
+  <h1>
   <img src="./img/readme/bicicletas.png">
 </h1>
-
-<h1 align="center">
+  <h1>
   <img src="./img/readme/seguro.png">
 </h1>
-
-<h1 align="center">
+  <h1>
   <img src="./img/readme/contato.png">
 </h1>
-
-<h2 align="center"><a href="https://loja-bikcraft.netlify.app/">See the site</a></h2>
+  <h2 align="center"><a href="https://loja-bikcraft.netlify.app/">See the full site</a></h2>
+</div>
 
 ## Technologies used
 
