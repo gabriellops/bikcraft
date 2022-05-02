@@ -11,7 +11,7 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
 </h1>
 
 <h1 align="center">
-  <img src="./img/readme/mobile1.gif">
+  <img width="50%" src="./img/readme/mobile1.gif">
 </h1>
 
 <h1 align="center">
@@ -33,12 +33,17 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
 <table>
   <tr>
     <td>Semantic <strong>HTML5</strong> markup<td>
+  </tr>  
   <tr>
     <td><strong>CSS</strong><td>
+  </tr>  
   <tr>
     <td>Flexbox<td>
+  </tr>  
   <tr>
     <td><strong>CSS</strong> Grid<td>
+  </tr>  
   <tr>
     <td><strong>JavaScript</strong> and plugin of simple anime<td>
+  </tr>  
 </table>
