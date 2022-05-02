@@ -10,7 +10,7 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
 
 <div align="center">
   <img src="./img/readme/preview-home.gif" alt="preview-desktok" height="425">
-  <img src="./img/readme/preview-mobile.gif" alt="preview-mobile" height="425">
+  <img src="./img/readme/preview-mobile.gif" alt="preview-desktok" height="425">
 </div>
 
 <div>
@@ -33,13 +33,15 @@ The Bikcraft project was developed in the last module of Origamid's HTML and CSS
     <td>Flexbox</td>
   </tr>  
   <tr>
-    <td><strong>CSS</strong> Grid</td>
+    <td>Grid Layout</td>
   </tr>  
   <tr>
-    <td><strong>JavaScript</strong> and plugin of simple anime</td>
+    <td><strong>JavaScript</strong></td>
+  </tr>
+  <tr>
+    <td>Plugin simple-anime</td>
   </tr>  
 </table>
-
 Made with ❤️ by Gabriel Lopes
 
 [See my Linkedin](https://www.linkedin.com/in/gabriellopes-silva/)
